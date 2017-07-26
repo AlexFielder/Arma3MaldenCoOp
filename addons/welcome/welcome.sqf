@@ -17,8 +17,8 @@ _att hintC [
     parseText "<t shadow='2'size='1' >Rule #1</t><br/><t shadow='2'size='0.75' >All Players MUST be on our Teamspeak Server to gain Permissions,TFAR is optional, use Open Squad channel(non TFAR).</t>",
     parseText "<t shadow='2'size='1' >Rule #2</t><br/><t shadow='2'size='0.75' >Pilots MUST be on Teamspeak to fly, Use Operation Base Helo's First before Building one at FOB.</t>",
     parseText "<t shadow='2'size='1' >Rule #3</t><br/><t shadow='2'size='0.75' >Join Squads, Work as a Team, Attack Objectives together, Lone Wolf Players will be removed.</t>",
-	parseText "<t shadow='2'size='1' >Rule #4</t><br/><t shadow='2'size='0.75' >Capture AI Surrendering (Hands on Heads) and take them to FOB for intel.</t>",
-	parseText "<t shadow='2'size='1' >Rule #4</t><br/><t shadow='2'size='0.75' >FOBs will require a vehicle logistics module to be placed in order to use in-vehicle logistics menu</t>",
+    parseText "<t shadow='2'size='1' >Rule #4</t><br/><t shadow='2'size='0.75' >Capture AI Surrendering (Hands on Heads) and take them to FOB for intel.</t>",
+    parseText "<t shadow='2'size='1' >Rule #5</t><br/><t shadow='2'size='0.75' >FOBs will require a vehicle logistics module to be placed in order to use in-vehicle logistics menu</t>",
     parseText "<t shadow='2'size='1' >Info:</t><br/><t shadow='2'size='0.75' >
     TeamSpeak Server: teamspeak3.i3d.net:10213
     <br/>
