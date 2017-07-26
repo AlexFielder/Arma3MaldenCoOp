@@ -536,7 +536,9 @@ elite_vehicles = [
 	"B_UAV_05_F",														//UCAV Sentinel
 	"UK3CB_BAF_Wildcat_AH1_CAS_6C_MTP",									//Wildcat AH1 6 (CAS/AT)
 	"UK3CB_BAF_Wildcat_AH1_CAS_8C_MTP",									//Wildcat AH1 8 (CAS/AT)
-	"UK3CB_BAF_Apache_AH1_MTP",											//Apache AH 1 (Multi-Role)
+	//"UK3CB_BAF_Apache_AH1_MTP",											//Apache AH 1 (Multi-Role)
+	"UK3CB_BAF_Wildcat_AH1_HEL_8A_MTP",
+						//8 Hellfire Wildcat
 	"RHS_AH64D_wd",														//AH-64D (Multi-Role)
 	"RHS_A10",															//A-10A (CAS)
 	"FIR_F15C",															//F-15C Eagle
